@@ -1,0 +1,108 @@
+CHAPTER 2 & 3
+GOOGLE CLOUD, GIT AND GITHUB, CLOUD SECURITY
+
+
+THE INTERNET POWERS THE CLOUD
+
+The cloud needs the internet to work. Without the internet, cloud apps and services cannot function.
+Cloud = Internet-based delivery of files, tools, and services.
+
+The Cloud Architecture:
+Server - Vitual Desktop - Software Platform - Application - Storage Data
+					|
+					| Internet
+		Router 					Switch 
+		  |					   |
+		  |			End User	   |
+Mobile		Laptop 		Printer			Desktop
+
+What is in the Cloud?
+- Emails (Gmail, Yahoo)
+- File (Google Cloud, Google Drive, Dropbox)
+- Media (Netflix, Spotify)
+- Apps and tools (Canva, Zoom, Google Docs)
+- Development Platform (Google Cloud, Replit, GitHub)
+
+Cloud is not just for storing files or streaming videos, but it also powers development platforms like Google Cloud and GitHub.
+These are tools that developers use to build, deploy, and manage websites and apps.
+
+What is Google Drive?
+- A cloud-based storage system
+- Accessible anywhere with internet
+- Used for documents, media, etc
+Example: Students use it to save assignments
+
+What is Google Platform?
+- Cloud platform to build apps, websites, use APIs
+- Used by developers and businesses
+- Example: Hosting a smart city ap on the cloud
+
+Developers use the cloud too
+Modern software development is cloud-powered. Teams work from different place and share code online.
+They need tools to edit, track, and share code safely.
+
+Wherecode lives in the Cloud
+Developers store their code in the cloud using GitHub, GitLab, and Bitbucket.
+They don't email code to teammates anymore. Cloud platforms provide better tracking, safely, and teamwork.
+
+Before Git and GtHub
+X Files were shared by email - easy to lose track
+X Multiple versions of the same file (v1, final_v2, final_really_final)
+X Difficult to know who changed what
+X No history of backup if something went wrong
+X Code conflicts when working in teams
+
+So before Git and GitHub, developers struggled with collaboration. Now, Git - GitHub allow teams to work smoothly together, track every change, and even delpoy code directly to te cloud.
+-> Developers needed a smarter way to track, organize, and collaborate on code.
+Git & GitHub - Popular tools for cloud-based development.
+
+What is Git?
+Git is a version control system that helps you track changes to files over time, especially when working with code or documents.
+
+It allows:
+- Saving snapshots of your work (called commits)
+- Undoing mistakes by going back to a previous version
+- Collaborating with others without messing up each other's changes
+- Working on different features in parallel (branches)
+
+What is GitHub?
+GitHub is a cloud-based platform for developers to share code. It uses Git (version control) to track changes.
+Think of it like Google Docs, but for code - with coments, versions, and permissions.
+
+Relation to Cloud
+Git:
+- Activities : A version control tool to track changes in code.
+- Relation to Cloud : Runs on your computer, but often works with cloud tools.
+GitHub:
+- Activities : A cloud-based platform to sotre and share Git repositories.
+- Relation to cloud : Hosts code in the cloud like Google Drive but for code.
+
+CLOUD SECURITY - WHY IT MATTERS
+Cloud platforms like Google Drive, Google Cloud, Git, and GitHub store important data. Security is critical to protect:
+- Files & Documents (Google Drive, google Docs)
+- Code Repositories (GitHub, Git)
+- Apps & Services (Google Cloud Platform)
+
+The security Features Provided:
+- Encryption (data is encrupted during transfer & storage)
+- Access Control (you choose who can view/edit)
+- Backup & Recovery (version control, rollback options)
+- 2-Factor Authentication (2FA) support on all platforms
+Example: In GitHub, every change to your code is tracked and can be reverted - giving a sense of audit and control.
+
+How to Secure?
+Use Strong Passwords:
+- Avoid using the same password for multiple accounts.
+- Example: Use a password manager.
+Enable 2FA:
+- Available on google, GitHub, and most platforms.
+- Adds an extra layer of protection.
+Set Proper Access Permissions:
+- For Google Drive: Share with "specific people" instead of "Anyone with the link".
+- for GitHub: Limit access to collaborators only.
+Backup Critical Data:
+- Regularly donwload/export backups from Google Drive or GitHub.
+- Useful in case of accidental deletion or cyberattacks.
+Keep Software Updated
+- Ensure browsers, apps, and pugins are current.
+- Prevent exploits from outdated systems.
