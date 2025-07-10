@@ -1,0 +1,53 @@
+CLOUD COMPUTING - GLOW 2025
+BASIC OF CLOUD AND WEBSITE
+
+Cloud Computing is storing and accessing data & apps over the Internet. 
+Not using your own computer, but using someone else's computer (data center). 
+Used for files, emails, apps, servvers, and more.
+
+Cloud in daily life
+- Google Drive - stores your files
+- Netflix - streams video
+- WhatsApp - stores your messages and media on the cloud
+- YouTube - hosts and streams videos
+
+Cloud computing is organized into three main layers: 
+1. Application - monitoring, content, collaboration, communication, finance
+2. Platform - object storage, identity, runtime, queue, database
+3. Infrastructure - compute, block storage, network
+
+The foundation of cloud computing (Infastructure):
+- Compute - virtual machines to run applications
+- Block Storage - Disk like storage
+- Network - Internet and internal data communication
+
+Tools used by developers to build apps without managing infrastructure, includes:
+Runtime - Programming 
+Database - Data storage & management
+Queue - Message handling between apps
+Identity - User access & login systems
+Object Storage - Upload files like images, videos
+Example : Firebase, App Engine
+
+Application Layer (Top)
+Software used directly by end users, includes:
+Collaboration - Google Docs, Teams
+Communication - Gmail, Zoom
+Finance - Online banking apps
+Monitoring, Content - Dashboards, new feeds
+Example : Gmail, Canva, YouTube
+
+why use cloud computing?
+- Accessible from anywhere, anytime
+- No need to install software
+- Scalable and felxible
+- Cost-effective - pay for what you use
+
+What is a Website?
+A collection of pages viewed in a browser. Uses HTML, CSS, and sometimes JavaScript
+Examples: personal blog, company profile, online store
+
+How websites related to the cloud?
+A website is a collection of files (HTML, CSS, image), these files are stored on a server, 
+when hosted on a cloud (google cloud and replit) the site becomes cloud-powered, cloud provides hosting, speed, reliability.
+Examples: A replit runs fully on cloud infrastructure.

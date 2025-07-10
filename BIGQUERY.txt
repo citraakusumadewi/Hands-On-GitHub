@@ -1,0 +1,34 @@
+BIG QUERY - Cloud Computing
+
+Data Analyst - Visualization
+Data Engineer - Collect data
+Data Scientist - Expert in Data Analyst, Data Engineer, ML Engineer/ AI Engineer
+
+Challenges in Data Analyst Task
+Ingest - data volume, data variety, data velocity
+Transform - slow exploration, slow processing, unclear logic
+Store - storage cost, hard to scale, latency issues
+Analyze - slow queries, data volume, siloed data
+Visualize - dataset size, tool latency
+
+
+Big Query
+Serverless, highly scalable, and cost-effective multi-cloud data warehouse designed for business agility.
+
+3 Services in Cloud Computing:
+1. PaaS - Platform as a Service
+2. SaaS - Software as a Service
+3. IaaS - Infrastructure as a Service
+
+Server vs Serverless
+- Develop from 0
+- Install OS
+- Security
+- Big upsell
+While Serverless don't need all of these.
+
+9 BigQuery Fundamental
+1. Serverless - Fully managed data warehouse
+              - For analytical workload
+              - No-ops
+2. Reliability - Backend by Google Data Centers.
